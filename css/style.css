@@ -1,0 +1,18 @@
+body{
+}
+.container-fluid{
+    padding-right: 0;
+    padding-left: 0;
+}
+#cadastrar-produtos .form-control{
+    background: #fff;
+}
+.center{
+    margin:0 auto;
+    float:none;
+}
+#jxgbox { 
+	position: relative;
+	width: 800px;
+	height: 800px;
+}
